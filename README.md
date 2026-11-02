@@ -17,7 +17,7 @@ Made as homework for the *Razvoj mobilnih aplikacij* (Mobile App Development) co
 
 - Java
 - Android Studio
-- XML layouts (`ScrollView`, `LinearLayout`, `TextView`, `Button`)
+- XML layouts (`ScrollView`, `LinearLayout`, `TextView`, `Button`).
 
 ## Getting started
 
